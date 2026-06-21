@@ -19,6 +19,7 @@ outputs/
 figures/
 tables/
 metrics/
+gradcam/
 checkpoints/
 *.pt
 *.pth

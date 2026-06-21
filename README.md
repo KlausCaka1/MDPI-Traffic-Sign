@@ -109,8 +109,8 @@ Suggested local structure:
 
 ```text
 data/
-├── GTSRB/
-└── GTSDB/
+├── https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+└── https://www.kaggle.com/datasets/icebearogo/german-traffic-sign-detection-gtsdb-dataset
 ```
 
 The datasets are not redistributed in this repository because they are publicly available from their official sources.
@@ -132,12 +132,12 @@ traffic_sign_seed_3407.ipynb
 The experiments were conducted using:
 
 ```text
-Python: [insert version]
-PyTorch: [insert version]
-torchvision: [insert version]
-CUDA: [insert version, if applicable]
-GPU: [insert GPU model]
-Platform: Kaggle notebook environment / local environment [choose correct one]
+Python: 3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]
+PyTorch: 2.10.0+cpu
+torchvision: 0.25.0+cpu
+CUDA available: False
+CUDA version: None
+GPU: GPU T4 x 2
 ```
 
 These details should be updated using the actual execution environment before final manuscript submission.

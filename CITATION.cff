@@ -2,21 +2,20 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the associated manuscript and repository."
 title: "Code for Comparative Evaluation of Deep Traffic Sign Classification Models under Visual Degradations and Interpretability Analysis"
 authors:
-
-* family-names: "Choi"
-  given-names: "Wonil"
-* family-names: "Caka"
-  given-names: "Klaus"
-* family-names: "Shah"
-  given-names: "Adnan"
-* family-names: "Khan"
-  given-names: "Talha Ali"
-* family-names: "Ahmed"
-  given-names: "Iftikhar"
-* family-names: "Ali"
-  given-names: "Raja Hashim"
-  repository-code: "https://github.com/KlausCaka1/MDPI-Traffic-Sign"
-  type: software
-  license: MIT
-  version: "1.0.0"
-  date-released: "2026-06-21"
+  - family-names: "Choi"
+    given-names: "Wonil"
+  - family-names: "Caka"
+    given-names: "Klaus"
+  - family-names: "Shah"
+    given-names: "Adnan"
+  - family-names: "Khan"
+    given-names: "Talha Ali"
+  - family-names: "Ahmed"
+    given-names: "Iftikhar"
+  - family-names: "Ali"
+    given-names: "Raja Hashim"
+repository-code: "https://github.com/KlausCaka1/MDPI-Traffic-Sign"
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-21"
