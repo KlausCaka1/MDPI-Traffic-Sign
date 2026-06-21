@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+datasets/
+
+# Outputs
+outputs/
+figures/
+tables/
+metrics/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# System files
+.DS_Store
+Thumbs.db
